@@ -1,158 +1,141 @@
-### Hello, I'm Ahmed! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+### Hello World! 👋
+![](https://komarev.com/ghpvc/?username=ahmedmotaser&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=ahmedmontaser&label=Profile%20Visits&color=0e75b6&style=for-the-badge)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Animation" align="right" width="200" height="auto" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" align="right" width="300" height="auto" />
+- 🔭 I'm Ahmed Motaser - Data Science, ML & GenAI Engineer
+- 🌱 Currently exploring cutting-edge GenAI applications and LLM fine-tuning
+- 💼 Building intelligent systems with Machine Learning and Generative AI
+- 💬 Ask me about Data Science, ML pipelines, and GenAI solutions
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: Passionate about turning data into actionable insights
 
-## 🚀 About Me
+#### 📫 How to reach me:
 
-- 💼 **Data Scientist** passionate about AI, ML, and building intelligent solutions
-- 🔧 Specializing in **customized tools** for data science and AI workflows
-- 💻 Proficient in **Python** and **Java** for scalable data applications
-- 📊 I transform data into actionable insights and automated solutions
-- ❤️ **"I Love Data"** - turning complex problems into elegant code
-- 🎯 Currently expanding my expertise in Deep Learning and MLOps
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-motaser/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmedmotaser)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/ahmedmotaser)  &nbsp; <a href="mailto:ahmed.motaser@email.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
----
+#### 👨🏻‍💻 Data Science & ML Tech Stack
 
-## 📫 Connect With Me
+**Programming Languages**
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" title="R"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" title="Bash"></code>
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-montaser-/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.montaser.662835)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](#)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](#)  &nbsp; <a href="mailto:your.email@example.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+**Machine Learning & Deep Learning**
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="TensorFlow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" title="PyTorch"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="Scikit-learn"></code>
+<code><img height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras"></code>
 
----
+**GenAI & LLMs**
+<br />
+<code><img height="40" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" title="OpenAI"></code>
+<code><img height="40" src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" title="Claude/Anthropic"></code>
+<code><img height="40" src="https://seeklogo.com/images/L/langchain-icon-logo-F3403F9E70-seeklogo.com.png" title="LangChain"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" title="LlamaIndex"></code>
 
-## 🛠️ Tech Stack & Tools
+**Data Processing & Analysis**
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" title="Jupyter"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"></code>
+<code><img height="40" src="https://matplotlib.org/stable/_static/logo2.svg" title="Matplotlib"></code>
 
-### Languages
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"></code>
-</p>
+**MLOps & Tools**
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" title="Kafka"></code>
+<code><img height="40" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" title="MLflow"></code>
 
-### Data Science & ML
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit-learn"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SK-Learn"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter"></code>
-</p>
-
-### Development Tools
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
-</p>
-
-### Databases
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
-</p>
-
----
-
-## 📊 GitHub Stats & Visualizations
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmontaser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmontaser&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmontaser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
+**Databases & Cloud**
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="PostgreSQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="SQL Databases"></code>
 
 ---
 
-## 🏆 GitHub Achievements
+### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmontaser&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmotaser&show_icons=true&theme=radical&count_private=true)](https://github.com/ahmedmotaser)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmotaser&layout=compact&theme=radical)](https://github.com/ahmedmotaser)
 
-## 📈 Contribution Graph
-
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmontaser&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmotaser&theme=radical)](https://github.com/ahmedmotaser)
 
 ---
 
-## 💡 Data Science Philosophy
+### 🏆 GitHub Trophies
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Ahmed Montaser Morsey"
-        self.role = "Data Scientist & AI Engineer"
-        self.language_spoken = ["ar_AR", "en_US"]
-        self.passion = "I Love Data ❤️"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing with data!")
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmotaser&theme=radical&no-frame=true&row=1&margin-w=20)](https://github.com/ahmedmotaser)
 
-    def current_focus(self):
-        return [
-            "Building custom AI tools",
-            "Machine Learning pipelines",
-            "Data visualization & storytelling",
-            "Automating data workflows"
-        ]
+---
 
-me = DataScientist()
-me.say_hi()
+### 💡 Featured Projects
+
+#### 🤖 GenAI Applications
+- **LLM-Powered Chatbots** - Building intelligent conversational AI systems
+- **RAG Systems** - Retrieval-Augmented Generation for knowledge-based applications
+- **Prompt Engineering** - Optimizing LLM outputs for various use cases
+
+#### 📈 Machine Learning
+- **Predictive Models** - Classification, regression, and time series forecasting
+- **NLP Solutions** - Text analysis, sentiment analysis, and language models
+- **Computer Vision** - Image classification and object detection projects
+
+#### 🔬 Data Science
+- **Data Pipelines** - ETL processes and data engineering workflows
+- **Analytics Dashboards** - Interactive visualizations and business intelligence
+- **Feature Engineering** - Advanced techniques for model improvement
+
+---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 I Love Statistics & Numbers ❤️
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║     📈  Data Distribution        🎲  Probability & Stats                ║
+║     ┌─────────────────┐          ┌─────────────────┐                   ║
+║     │    ╱╲            │          │  μ = 0, σ = 1   │                   ║
+║     │   ╱  ╲           │          │    ╱‾‾‾╲        │                   ║
+║     │  ╱    ╲          │          │   ╱     ╲       │                   ║
+║     │ ╱      ╲         │          │  ╱       ╲      │                   ║
+║     │╱________╲________│          │ ╱_________╲_____│                   ║
+║     └─────────────────┘          └─────────────────┘                   ║
+║                                                                          ║
+║   "In God we trust, all others must bring data." - W. Edwards Deming    ║
+║                                                                          ║
+║   💡 What I Love:                                                        ║
+║   ├─ Turning numbers into insights                                      ║
+║   ├─ Finding patterns in chaos                                          ║
+║   ├─ Building predictive models                                         ║
+║   ├─ Statistical storytelling                                           ║
+║   └─ Data-driven decision making                                        ║
+║                                                                          ║
+║   🎯 Current Focus:                                                      ║
+║   • Building custom AI tools                                            ║
+║   • Machine Learning pipelines                                          ║
+║   • Data visualization & storytelling                                   ║
+║   • Automating data workflows                                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+    ∫ f(x)dx  ·  Σ(xi)  ·  π ≈ 3.14159  ·  e ≈ 2.71828  ·  √(Σ(xi-μ)²/n)
 ```
 
 ---
 
-## 🔥 Recent Projects & Focus Areas
-
-- 🤖 **Custom ML Tools**: Building reusable frameworks for data science teams
-- 📊 **Data Visualization**: Creating interactive dashboards and reports
-- 🔄 **ETL Pipelines**: Automated data processing with Python and Java
-- 🧠 **Deep Learning**: Computer vision and NLP applications
-- ⚙️ **MLOps**: Deploying and monitoring ML models in production
-
----
-
-## 📚 Currently Learning
-
-```ascii
-  🎯 Advanced Deep Learning Architectures
-  🎯 Cloud ML Deployment (AWS/Azure/GCP)
-  🎯 Big Data Technologies (Spark, Hadoop)
-  🎯 Real-time Data Processing
-```
-
----
-
-## 💬 Ask Me About
-
-- Data Science workflows and best practices
-- Python automation and custom tool development
-- Machine Learning model deployment
-- Data visualization techniques
-- Java for data engineering
-
----
-
-<div align="center">
-  
-### 💙 "I Love Data" 💙
-
-*Transforming raw data into meaningful insights, one algorithm at a time.*
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
-
----
-
-![](https://komarev.com/ghpvc/?username=ahmedmontaser&color=0e75b6&style=flat-square&label=Total+Profile+Views)
-
-**⭐ From [Ahmed Montaser Morsey](https://github.com/ahmedmontaser) with ❤️**
-
-</div>
+⭐️ From [ahmedmotaser](https://github.com/ahmedmotaser) - Building the future with AI, one model at a time!
