@@ -216,7 +216,6 @@ Every decision creates value.
 
 <div align="center">
 
-### 💙 "I Love Data" 💙
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
 
