@@ -1,141 +1,235 @@
-### Hello World! 👋
-![](https://komarev.com/ghpvc/?username=ahmedmotaser&label=Profile%20Visits&color=blue&style=for-the-badge)
+### Hello, I'm Ahmed Montaser! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Animation" align="right" width="200" height="auto" />
+![](https://komarev.com/ghpvc/?username=ahmedmontaser123&label=Profile%20Visits&color=0e75b6&style=for-the-badge)
 
-- 🔭 I'm Ahmed Motaser - Data Science, ML & GenAI Engineer
-- 🌱 Currently exploring cutting-edge GenAI applications and LLM fine-tuning
-- 💼 Building intelligent systems with Machine Learning and Generative AI
-- 💬 Ask me about Data Science, ML pipelines, and GenAI solutions
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Passionate about turning data into actionable insights
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" align="right" width="300" height="auto" />
 
-#### 📫 How to reach me:
+## 🚀 About Me
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-motaser/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmedmotaser)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/ahmedmotaser)  &nbsp; <a href="mailto:ahmed.motaser@email.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+- 💼 **Data Scientist** passionate about AI, ML, and building intelligent solutions
+- 🔧 Specializing in **customized tools** for data science and AI workflows
+- 💻 Expert in **Python** and **Java** for scalable data applications
+- 📊 **Workaholic** transforming data into actionable insights that drive business impact
+- ❤️ **"I Love Data"** - My passion is turning complex data into strategic decisions
+- 🎯 Currently mastering **Generative AI** and cutting-edge LLM applications
+- 🏥 Working on **Medical Sepsis Detection** using advanced ML techniques
+- 🚗 Built **Car Price Prediction Application** for the Egyptian market
+- 🧠 Specialized in **NLP** and **Time Series Analysis**
 
-#### 👨🏻‍💻 Data Science & ML Tech Stack
-
-**Programming Languages**
-<br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" title="R"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" title="Bash"></code>
-
-**Machine Learning & Deep Learning**
-<br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="TensorFlow"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" title="PyTorch"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="Scikit-learn"></code>
-<code><img height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras"></code>
-
-**GenAI & LLMs**
-<br />
-<code><img height="40" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" title="OpenAI"></code>
-<code><img height="40" src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" title="Claude/Anthropic"></code>
-<code><img height="40" src="https://seeklogo.com/images/L/langchain-icon-logo-F3403F9E70-seeklogo.com.png" title="LangChain"></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" title="LlamaIndex"></code>
-
-**Data Processing & Analysis**
-<br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" title="Jupyter"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"></code>
-<code><img height="40" src="https://matplotlib.org/stable/_static/logo2.svg" title="Matplotlib"></code>
-
-**MLOps & Tools**
-<br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" title="Kafka"></code>
-<code><img height="40" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" title="MLflow"></code>
-
-**Databases & Cloud**
-<br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="PostgreSQL"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
-<code><img height="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="SQL Databases"></code>
+> *"Data is not just numbers - it's the story that changes businesses"*
 
 ---
 
-### 📊 GitHub Statistics
+## 📫 Connect With Me
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmotaser&show_icons=true&theme=radical&count_private=true)](https://github.com/ahmedmotaser)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmotaser&layout=compact&theme=radical)](https://github.com/ahmedmotaser)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmotaser&theme=radical)](https://github.com/ahmedmotaser)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-montaser-/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.montaser.662835)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/a7med__mon/)  &nbsp; <a href="mailto:montaserahmed146@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack & Tools
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmotaser&theme=radical&no-frame=true&row=1&margin-w=20)](https://github.com/ahmedmotaser)
+### Languages
+<p>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"></code>
+</p>
+
+### Data Science & ML
+<p>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit-learn"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SK-Learn"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter"></code>
+</p>
+
+### Development Tools
+<p>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
+</p>
+
+### Databases
+<p>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
+</p>
 
 ---
 
-### 💡 Featured Projects
+## 🎯 Areas of Expertise
 
-#### 🤖 GenAI Applications
-- **LLM-Powered Chatbots** - Building intelligent conversational AI systems
-- **RAG Systems** - Retrieval-Augmented Generation for knowledge-based applications
-- **Prompt Engineering** - Optimizing LLM outputs for various use cases
-
-#### 📈 Machine Learning
-- **Predictive Models** - Classification, regression, and time series forecasting
-- **NLP Solutions** - Text analysis, sentiment analysis, and language models
-- **Computer Vision** - Image classification and object detection projects
-
-#### 🔬 Data Science
-- **Data Pipelines** - ETL processes and data engineering workflows
-- **Analytics Dashboards** - Interactive visualizations and business intelligence
-- **Feature Engineering** - Advanced techniques for model improvement
-
----
-
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📊 I Love Statistics & Numbers ❤️
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║     📈  Data Distribution        🎲  Probability & Stats                ║
-║     ┌─────────────────┐          ┌─────────────────┐                   ║
-║     │    ╱╲            │          │  μ = 0, σ = 1   │                   ║
-║     │   ╱  ╲           │          │    ╱‾‾‾╲        │                   ║
-║     │  ╱    ╲          │          │   ╱     ╲       │                   ║
-║     │ ╱      ╲         │          │  ╱       ╲      │                   ║
-║     │╱________╲________│          │ ╱_________╲_____│                   ║
-║     └─────────────────┘          └─────────────────┘                   ║
-║                                                                          ║
-║   "In God we trust, all others must bring data." - W. Edwards Deming    ║
-║                                                                          ║
-║   💡 What I Love:                                                        ║
-║   ├─ Turning numbers into insights                                      ║
-║   ├─ Finding patterns in chaos                                          ║
-║   ├─ Building predictive models                                         ║
-║   ├─ Statistical storytelling                                           ║
-║   └─ Data-driven decision making                                        ║
-║                                                                          ║
-║   🎯 Current Focus:                                                      ║
-║   • Building custom AI tools                                            ║
-║   • Machine Learning pipelines                                          ║
-║   • Data visualization & storytelling                                   ║
-║   • Automating data workflows                                           ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-    ∫ f(x)dx  ·  Σ(xi)  ·  π ≈ 3.14159  ·  e ≈ 2.71828  ·  √(Σ(xi-μ)²/n)
+```python
+expertise = {
+    "NLP": ["Text Analysis", "Sentiment Analysis", "Named Entity Recognition", "LLMs"],
+    "Time_Series": ["Forecasting", "ARIMA", "LSTM", "Prophet"],
+    "GenAI": ["LLMs", "Prompt Engineering", "RAG Systems", "Fine-tuning"],
+    "Healthcare_AI": ["Medical Sepsis Detection", "Clinical Data Analysis"],
+    "Market_Analysis": ["Price Prediction", "Market Trends", "Economic Modeling"]
+}
 ```
 
 ---
 
-⭐️ From [ahmedmotaser](https://github.com/ahmedmotaser) - Building the future with AI, one model at a time!
+## 🔬 Featured Projects
+
+### 🏥 Medical Sepsis Detection System
+Advanced ML system for early detection of sepsis in patients, potentially saving lives through predictive analytics
+- **Tech Stack**: Python, TensorFlow, Scikit-learn, Clinical ML Models
+- **Impact**: Early warning system for critical care units
+
+### 🚗 Car Price Prediction - Egypt Market
+Intelligent pricing application tailored for the Egyptian automotive market
+- **Tech Stack**: Python, ML Algorithms, Time Series Analysis
+- **Features**: Real-time market analysis, price forecasting, trend detection
+
+---
+
+## 📊 GitHub Stats & Visualizations
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmontaser123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmontaser123&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmontaser123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmontaser123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmontaser123&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💡 My Data Science Philosophy
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Ahmed Montaser Morsey"
+        self.role = "Data Scientist & AI Engineer"
+        self.personality = "Workaholic"
+        self.mission = "Transform data into business impact"
+        self.passion = "I Love Data ❤️"
+        self.specializations = ["NLP", "Time Series", "GenAI"]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's turn data into decisions that matter!")
+    
+    def current_work(self):
+        return {
+            "projects": ["Medical Sepsis Detection", "Car Price Prediction"],
+            "learning": ["Generative AI", "LLMs", "Advanced NLP"],
+            "goal": "Creating data solutions that drive real business value"
+        }
+    
+    def core_belief(self):
+        return "Data is not just numbers - it's insights that transform businesses"
+
+me = DataScientist()
+me.say_hi()
+```
+
+---
+
+## 🔥 What I'm Working On
+
+- 🤖 **Generative AI Applications**: Building LLM-powered solutions
+- 🏥 **Healthcare ML**: Developing predictive models for medical diagnosis
+- 📈 **Time Series Forecasting**: Advanced prediction systems
+- 💬 **NLP Projects**: Text analysis and language understanding
+- 🚀 **Custom AI Tools**: Creating reusable frameworks for data science teams
+
+---
+
+## 📚 Currently Learning & Exploring
+
+```ascii
+  🎯 Generative AI & Large Language Models
+  🎯 Advanced Prompt Engineering Techniques
+  🎯 RAG Systems & Vector Databases
+  🎯 MLOps & Model Deployment at Scale
+  🎯 Real-time Data Processing Pipelines
+```
+
+---
+
+## 💼 Professional Focus
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" align="right" />
+
+**My Mission**: Transform raw data into strategic insights that create real business impact
+
+**Approach**: 
+- 📊 Data-driven decision making
+- 🔍 Deep analytical thinking
+- 💡 Creative problem-solving
+- ⚡ Fast execution and iteration
+- 🎯 Business-focused solutions
+
+**Work Style**: Dedicated workaholic who thrives on challenging data problems and delivers results that matter
+
+---
+
+## 💬 Ask Me About
+
+- 🏥 Healthcare AI and Medical Data Analysis
+- 🚗 Market Prediction Models
+- 📝 Natural Language Processing (NLP)
+- 📈 Time Series Forecasting
+- 🤖 Generative AI and LLMs
+- 🔧 Building Custom Data Science Tools
+- 💼 Translating Data into Business Value
+
+---
+
+## 🌟 My Approach to Data Science
+
+```
+┌─────────────────────────────────────────────┐
+│  Raw Data  →  Analysis  →  Insights  →  Impact  │
+└─────────────────────────────────────────────┘
+
+Every dataset tells a story.
+Every model solves a problem.
+Every insight drives a decision.
+Every decision creates value.
+```
+
+---
+
+<div align="center">
+
+### 💙 "I Love Data" 💙
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
+
+*Workaholic. Data Lover. Business Impact Creator.*
+
+**"Transforming data into decisions that matter"**
+
+---
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" />
+
+![](https://komarev.com/ghpvc/?username=ahmedmontaser123&color=0e75b6&style=flat-square&label=Total+Profile+Views)
+
+**⭐ From [Ahmed Montaser](https://github.com/ahmedmontaser123) with ❤️ for Data**
+
+</div>
