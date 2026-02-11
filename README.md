@@ -172,7 +172,7 @@ me.say_hi()
 
 ## 💼 Professional Focus
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" align="right" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" align="right" />
 
 **My Mission**: Transform raw data into strategic insights that create real business impact
 
